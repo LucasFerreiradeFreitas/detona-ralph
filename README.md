@@ -53,4 +53,4 @@ Escolha de níveis de dificuldade
 
 Animações para tornar o jogo mais dinâmico
 
-
+![Tela do Jogo](./img-do-jogo.png)
